@@ -1,0 +1,8 @@
+#app {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.form-control--error {
+  border-color: red;
+}
